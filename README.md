@@ -1,4 +1,4 @@
-## Python Midexam Machine Learning
+## Machine Learning with Python
 
 ```
 Batam International University Mid Exam
